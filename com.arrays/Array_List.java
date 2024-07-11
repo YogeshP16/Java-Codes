@@ -25,6 +25,7 @@ public class Array_List {
         // to remove element in list
         list.remove(4); // it reomve 4th index element
         System.out.println("it reomve 4th index element: "+list);
+        sc.close();
 
     }
 

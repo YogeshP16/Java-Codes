@@ -24,6 +24,8 @@ public class TwoD_AL {
         }
         // to print output
         System.out.println(list);
+
+        sc.close();
     }
 }
 
